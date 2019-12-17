@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BeersCore": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\LETI_MAG\\11_sem\\KnowldgeTheory\\Datasets_Original\\Beer\\beer_reviews.csv 20000 1 1"
+    }
+  }
+}
